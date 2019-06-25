@@ -9,7 +9,7 @@ html{font-size:100%;}
 /* Desktop */
 @media screen and (min-width:751px){
 .hw{width:50vw;min-height:100vh;margin:0;padding:10%;vertical-align: middle;float:left;clear:none;}
-.graphic{visibility:visible;display:inline-block;background:conic-gradient(from 90deg,#d19243, #eee0ba);background-position:center;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;position: fixed;right:0;}
+.graphic{visibility:visible;display:inline-block;background:conic-gradient(from 90deg,#d19243, #eee0ba);background-color:#eee0ba;background-position:center;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;position: fixed;right:0;}
 }
 
 body{font-family:halyard-display,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-weight:200;}
