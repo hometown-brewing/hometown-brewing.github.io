@@ -25,7 +25,10 @@ a.svg{position: relative;display:inline-block;}a.svg:after{content:"";position:a
 /*Landing Area*/
 
 @media screen and (min-width:501px){
-            .hw{width:50vw;height:100vh;margin:0;padding:10%;vertical-align: middle;}}
+            .hw{width:50vw;height:100vh;margin:0;padding:10%;vertical-align: middle;float:left;clear:none;}
+    .graphic{visibility: visible;display: inline-block;}
+
+}
 
 .graphic{background:conic-gradient(from 90deg,#d19243, #eee0ba);background-position:center;}
 
