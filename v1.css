@@ -12,15 +12,12 @@ html{font-size:100%;}
 .graphic{visibility:visible;display:inline-block;background:conic-gradient(from 90deg,#d19243, #eee0ba);background-position:center;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;position: fixed;right:0;}
 }
 
-
-
-
 body{font-family:halyard-display,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-weight:200;}
 
 zh{font-family:source-han-sans-traditional,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
-.hao{font-family:source-han-sans-traditional,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;letter-spacing:0.25rem;padding-bottom:1.778rem;}
+.hao{font-family:source-han-sans-traditional,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;letter-spacing:0.375rem;padding-bottom:1.778rem;}
 
-.title{font-family:halyard-micro,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;letter-spacing:0.25rem;padding-bottom:1.778rem;}
+.title{font-family:halyard-micro,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;letter-spacing:0.375rem;padding-bottom:1.778rem;}
 
 
 /*Title Exception*/
@@ -38,12 +35,9 @@ a.svg{position: relative;display:inline-block;}a.svg:after{content:"";position:a
 
 /*Landing Area*/
 
-
-.bottle{width:13vw;height:50vw;padding-bottom:;}
-
+.bottle{width:13vw;height:50vw;border:0;}
 
 .text{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;text-align: center;background:hsla(0,0%,98%,0.7);}
-
 
 .dull{color:hsla(0,0%,40%,1.0);font-style:italic;letter-spacing:0.033rem;}
 .seal{height:4.86rem;margin-bottom:2.737rem;}
@@ -55,21 +49,16 @@ a.svg{position: relative;display:inline-block;}a.svg:after{content:"";position:a
 
 .highlight{border:solid 0.05rem hsla(0,0%,50%,0.7);color:hsla(0,0%,50%,0.7);padding:0.75rem 1rem 0 1rem;width:auto;background:hsla(0,0%,97%,0.7);width:100%;margin:0 1rem 0;}
 
-
 .highlight h5{font-weight:400;color:hsla(0,0%,0%,0.5);}
 .hlv{font-size:0.75em;line-height:1rem;color:hsla(0,0%,50%,0.7);}
-
 
 .spellout{letter-spacing:0.125rem;font-family:halyard-display,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-weight:400;padding:0 0.125rem 0 0.125rem;}
 
 .hlv object{display:inline-block;pointer-events:visible;}
 .socmed{width:1.333rem;height:1.333rem;margin:0 0.5rem 0 0.5rem;}
 
-
 .disappear{visibility: collapse;display: none;}
 
 /*
 .graphica{background:#f1e767;background: -moz-linear-gradient(top,  #f1e767 0%, #feb645 100%);background: -webkit-linear-gradient(top,  #f1e767 0%,#feb645 100%);background: linear-gradient(to bottom,  #f1e767 0%,#feb645 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1e767', endColorstr='#feb645',GradientType=0 );} 
-
-
 */
