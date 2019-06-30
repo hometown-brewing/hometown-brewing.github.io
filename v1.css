@@ -39,6 +39,8 @@ a.svg{position: relative;display:inline-block;}a.svg:after{content:"";position:a
 @media screen and (min-width:1100px){.bottle{width:10vw;height:38.461vw;border:0;}
 }
 
+
+
 .text{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;text-align: center;background:hsla(0,0%,98%,0.7);}
 
 .dull{color:hsla(0,0%,40%,1.0);font-style:italic;letter-spacing:0.033rem;}
